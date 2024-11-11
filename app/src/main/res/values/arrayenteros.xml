@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="miarray">
+        <item>4</item>
+        <item>9</item>
+        <item>12</item>
+        <item>35</item>
+
+    </integer-array>
+</resources>
